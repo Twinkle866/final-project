@@ -7,9 +7,7 @@ It is created as a part of the **Hands-on GitHub UI and Git CLI Project**.
 
 ## 🧮 Formula Used
 
-\[
-\text{Simple Interest (SI)} = \frac{P \times R \times T}{100}
-\]
+Simple Interest (SI) = (P × R × T) / 100
 
 Where:  
 - `P` = Principal amount  
